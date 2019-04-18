@@ -1,0 +1,69 @@
+---
+title: "Untitled"
+author: "Your Name"
+date: "April 18, 2015"
+output: 
+  word_document:
+    reference_docx: Thesis_Dissertation_Template_NPS.docx
+bibliography: format/thesis.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+My report starts here.
+
+
+# Chapter 1
+
+In this section I layout my data:
+```{r message=FALSE, warning=FALSE, tidy=TRUE}
+library(dplyr)
+# Extract a subset of the mtcars data
+df <- mtcars %>%
+  mutate(make_model = row.names(mtcars)) %>%
+  filter(cyl==4) %>%
+  select(make_model, mpg, wt) %>%
+  mutate(wt = wt*1000) %>%
+  arrange(make_model)
+```
+
+<br>
+
+
+## Chapter 1: Subsection 1
+
+And I have this next subsection, here I use *knitr::kable()* to create the table.
+
+<br>
+
+```{r echo=FALSE, warning=FALSE}
+library(knitr)
+kable(df)
+```
+
+## Chapter 1: Subsection 2
+
+Here is an example of using the citations using the typographical conventions used in R for Data Science [@Wickham2017]:
+
+  1. **Italic* -
+        Indicating new terms, URLs, email addresses, file names, and file extensions.
+      
+  2. **Bold** -
+        Indicating the names of R packages.
+      
+  3. `Constant width` -
+        Used for program listings, as well as within paragraphs to refer to elements such as variable or function names, databases, data types, etc. In other words, it denotes code listing that should be typed as is or previously defined objects.
+      
+  4. *`Constant width italic`* -
+        Text that should be replaced with user-supplied values or determined by context.
+  
+  5. **`Constant width bold`** -
+        Shows commands or other text that users should type literally.
+        
+        
+# Citations
+
