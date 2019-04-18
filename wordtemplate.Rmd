@@ -1,11 +1,9 @@
 ---
-title: "Untitled"
-author: "Your Name"
-date: "`r format(Sys.time(), '%d/%m/%Y')`"
+title: "NPS"
 output: 
   word_document:
-    toc: yes
     reference_docx: format/Thesis_Dissertation_Template_NPS.docx
+    toc: yes
 bibliography: format/thesis.bib
 ---
 
@@ -66,5 +64,5 @@ Here is an example of using the citations using the typographical conventions us
         Shows commands or other text that users should type literally.
         
         
-# Citations
+# List of References
 
