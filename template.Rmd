@@ -1,10 +1,11 @@
 ---
 title: "Untitled"
 author: "Your Name"
-date: "April 18, 2015"
+date: "`r format(Sys.time(), '%d/%m/%Y')`"
 output: 
   word_document:
-    reference_docx: Thesis_Dissertation_Template_NPS.docx
+    toc: yes
+    reference_docx: format/Thesis_Dissertation_Template_NPS.docx
 bibliography: format/thesis.bib
 ---
 
