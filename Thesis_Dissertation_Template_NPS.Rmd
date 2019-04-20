@@ -1,0 +1,636 @@
+---
+output: 
+  word_document:
+    reference_docx: format/Thesis_Dissertation_Template_NPS.docx
+    toc: yes
+bibliography: references.bib
+csl: format/chicago-fullnote-bibliography.csl
+---
+**Name:**
+
+**Rank and Service or Organization:**
+
+**Co-authors, if any:**
+
+**Estimated Departure Date: (if team, earliest team member's)**
+
+**Thesis ID**[^1]**:**
+
+**Title:**
+
+**Advisor:**
+
+**Co-advisor:**
+
+**Second reader:**
+
+**Distribution Statement**[^2]**:**
+
+**If this is a *co*-authored paper, are you earning *different* degrees?**
+
+**Student:** Fill in the data above.
+
+Alternatively, to save yourself re-typing and increase accuracy, download a\
+Draft Chapter Coversheet from your dashboard, then copy and paste it here.
+
+**Thesis processor:** Insert first 8 pages here, from student's dashboard,\
+during Final Review.
+
+TABLE OF CONTENTS
+
+I. Formatting instructions 1
+
+A. TEMPLATE SETUP 1
+
+B. pasting into the template 1
+
+C. applying Heading Styles 2
+
+D. applying BODY TEXT STYLES 3
+
+1\. Figures 3
+
+2\. Tables 11
+
+3\. Bulleted and Numbered Lists 13
+
+4\. Block Quotes 13
+
+5\. Footnotes 14
+
+E. Table of contents 14
+
+F. zotero, refworks and the like 15
+
+G. blank pages 15
+
+H. Cross referencing 16
+
+I. equations 16
+
+J. Supplementals 17
+
+II\. SAMPLE CHAPTER 19
+
+A. THIS IS A HEADING 2 19
+
+1\. Heading 3 19
+
+2\. Heading 3 22
+
+B. This is a heading 2 23
+
+appendix. Optional 25
+
+List of References 27
+
+initial distribution list 29
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+LIST OF FIGURES
+
+Figure 1. Heading Levels and Their Associated Styles. Adapted from Hawks (2015). 3
+
+Figure 2. A Basic Figure 5
+
+Figure 3. A Figure with a Citation after the Figure Title. Source: Doe (2017). 7
+
+Figure 4. A Figure Cited Using a Footnote in Chicago Notes and Bibliography Style. 7
+
+Figure 5. Placement of Optional Secondary Caption in Figure Title 8
+
+Figure 6. Variation---Multi-line Figure Title, with First Sentence Only in List of Figures. Adapted from Doe (2017). 9
+
+Figure 7. Variation---Figure Title above Figure 11
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+LIST OF TABLES
+
+Table 1. Styles to Use and Element Placement for Figures and Tables. Source: \[5\]. 12
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+LIST OF ACRONYMS AND ABBREVIATIONS
+
+Provide if thesis contains six or more acronyms. The preferred format is to capitalize proper nouns but lowercase common nouns. For capitalization guidance on many acronyms used in the Department of Defense, refer to the [*Department of Defense Dictionary of Military and Associated Terms*](http://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/dictionary.pdf). Compile the list in alphabetical order, with numbered terms preceding lettered terms, as shown.
+
+2LM Role 2 light maneuver
+
+APOE aerial port of embarkation
+
+BHR Bureau of Humanitarian Response
+
+JLOC joint logistics operations center
+
+MILOB military observer
+
+NATO North Atlantic Treaty Organization
+
+RFID radio frequency identification
+
+SOFAR sound fixing and ranging
+
+TLAM Tomahawk land attack missile
+
+TGIF thank goodness it's Friday
+
+VA Veterans Administration
+
+WORM write once read many
+
+ZULU time zone indicator for Universal Time
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+EXECUTIVE SUMMARY
+
+This is NOT your abstract. Your abstract must be entered into your thesis dashboard in Python, and it will output as part of your First 8 Pages file.
+
+An executive summary is required or recommended for the departments listed in our Abstracts versus Executive Summaries guidance [here](https://my.nps.edu/web/thesisprocessing/resources), under the "Style and Grammar" section. Please consult your advisors for their preferences regarding length and style.
+
+The executive summary should be able to stand apart from the thesis. Therefore, if you include figures or tables in your Executive Summary, do not apply the figure or table styles to the titles. Instead, use **Normal** style and manually format the title to match the titles in the body of the thesis. This will keep these titles out of the lists of figures and tables, and allow the figure and table numbering to start at "1" in the thesis body, as required.
+
+If you include *parenthetical* citations (APA style, for example) in the Executive Summary (but weaving your sources directly into your sentences is preferable), include a separate reference list at the bottom of the last page of the summary. Use the same citation/reference format as in the body of the thesis.
+
+**References**
+
+You may include a separate reference list for the executive summary, or you may weave your sources into the narrative.
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+ACKNOWLEDGMENTS
+
+Optional for all departments. Acknowledgments may be more informal in tone than the main thesis text but should still follow correct use of sentence structure, grammar, and punctuation.
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+# Formatting instructions
+
+If you encounter any problem when formatting your paper, please contact your thesis processor. If you do not yet have a thesis processor, please email us at <thesisdraft@nps.edu>, and we will be happy to help.
+
+## TEMPLATE SETUP
+
+The template contains the pages and styles needed to format your paper. A "style" is a button you click to automatically apply a set of formatting rules to a piece of text.
+
+1.  Download and save template. If "Maintain Compatibility with Previous Versions of Word" prompt is available, checkmark it.
+
+2.  Open the template.
+
+3.  ![](/media/image1.png){width="0.22916666666666666in" height="0.23958333333333334in"}Configure your Microsoft Word settings per "[Template Setup](https://my.nps.edu/documents/105790672/105990818/Template_Setup.doc/9b7b4754-abb2-4aa3-a2e1-dc9e2f9cf90a)" handout.
+
+4.  On the **Home** tab, click the **Show/Hide** button ( ) to see all formatting marks.
+
+5.  On the **Home** tab, in the **Styles** pane, click the small arrow on the bottom-right corner of the pane to open the list. You can also access the template styles from the **Styles** pane. (Mac users, see "[Template Setup](https://my.nps.edu/documents/105790672/105990818/Template_Setup.doc)" handout.)
+
+    B.  ## pasting into the template
+
+Reformatting after you paste in text from another file into this template is usually needed, because the NPS formatting specifications are different from Word's default specifications, and because letter and word spacing varies among the different versions of Word. Therefore, when you transfer text from another file into this template, some loss of formatting from your other file may occur. This is usually minor. Here are some best practices for pasting text into the template:
+
+-   Styles: Remove formatting from your text before pasting it into the template. To remove formatting, highlight the text, and from the Styles list, choose **Clear All** (usually the first option). After pasting in, immediately apply the desired style---**Heading**, **Figure Title**, **Block Quote**, **List Bullet**, etc. You could do this in chunks if it makes it easier to keep track of the type of text you are pasting in.
+
+-   Paste options: If you prefer to paste in your entire thesis at once---and reformat everything afterward---Word will offer you several paste options. We recommend "Use Destination Theme" from the **Paste** menu. After pasting in your text, you are now ready to apply the NPS thesis formatting.
+
+-   Figures: When pasting in text underneath a figure title, ensure the style *in the template* is set to **All Paragraph** first.
+
+-   Footnote tips: If your thesis has substantial footnotes, in the non-template file, double-click into the footnotes and Select All (Control + A). Then, in the **Styles** list, apply **Normal** style to them. Apply 10-point font size and Times Roman font. Doing this will visually "clean up" the formatting and help the format hold steady when you transfer from your file into the template.
+
+-   Margins: After you paste in the first time, double-check that the margins in the template were retained (LayoutMarginsOffice 2003 Default).
+
+    C.  ## applying Heading Styles
+
+To each heading, apply the heading style (**Heading 1**, **2**, **3**, or **4**) that corresponds to its level in your outline (see Figure 1). When you apply each heading style, the proper letter or number will automatically appear, and formatting will be applied. Figure 1 shows how the heading styles display your thesis outline in the Table of Contents, once they are applied to thesis text. Use headings only to introduce a new section of thesis text. *Place paragraph text under each heading* before introducing the next level of heading. There must be at least two headings for each heading level (A and B, 1 and 2, *a* and *b*, at minimum), or do not use the heading.
+
+**Heading 3s** and **Heading 4s** must be typed in uppercase and lowercase letters. Do not use Heading 3s to make a numbered list; use the **List Number** style or **Heading 5** style to accomplish that task.
+
+**Heading 5** typically is used for subsections below the Heading 4 level (see\
+Chapter II). **Heading 5** also may be used under any heading level to number a series of single paragraphs (see Chapter II).
+
+![](/media/image2.png){width="5.9027296587926505in" height="2.119048556430446in"}
+
+When heading styles 1 through 3 are applied to text, they will appear in the Table of Contents.
+
+1.  Heading Levels and Their Associated Styles. Adapted from Hawks (2015).
+
+    D.  ## applying BODY TEXT STYLES
+
+To all paragraphs in the document, apply **All Paragraph** style. There are styles for other elements (e.g., Figure Title, List Bullet, Image, Block Quote) used within the body text.
+
+### Figures 
+
+Formatting for figures in NPS theses may be different from what you are used to; therefore, please read and follow these instructions carefully. The commonly used format is shown in Figure 1. Figures 2 through 7 of this template show accepted variations of the commonly used format.
+
+-   Figures should be styled as **Image**. This centers the image and applies even white space.
+
+-   Insert figures *between* sentences or paragraphs, but never in the middle of a sentence, after they are cited in the text.
+
+-   Titles should not be included in the image. Do not include a title within your image, since it will be written in the figure's caption, hereafter called a "figure title." If a borrowed figure contains a title inside it, your figure title must be different.
+
+-   Figures should be readable if the words in them are meant to be read. You may need to re-create images when the source text is too fuzzy to read. Or, you may need to enlarge the image and place it on a horizontal page. Do this by inserting a "Continuous Section Break" at the start and end of your horizontally aligned information and changing the page orientation to "landscape." Section breaks are available in Word's **Page Layout** tab.
+
+-   Each figure must be referred to by its number in the body text prior to displaying the figure. Refer, for example, to Figure 23, without including its title.
+
+-   The meaning of figures must clear enough so that can they can stand alone.
+
+-   Directions should not be used to refer to figures. In your text, do not use descriptive words such as "above" or "below" when referring to figures.
+
+-   Please convert MS Office Graphic Objects or HTML format into images; otherwise, there is a risk of them dropping out at the PDF conversion stage. Here's how to convert them: click on the figure to select it, then **Cut**, **Paste Special**, and choose **PNG format or Enhanced Metafile**. Ensure there is a paragraph return between the figure and the figure title. Apply **Image** style to the new image for correct formatting.
+
+![](/media/image3.png){width="2.9375in" height="2.0625in"}
+
+2.  A Basic Figure
+
+    a.  #### Figure Titles 
+
+Each figure must have a title. Type the title *outside* of the actual figure. Follow these NPS thesis style guidelines for figure titles, which, in some disciplines, are referred to as captions:
+
+-   Type your figure title below the figure itself, as shown in Figure 2.
+
+-   Use a short, definitive title that tells your reader the main topic and the main takeaway from your image.
+
+-   Try to limit your title to fewer than 12 words, since these will appear in your List of Figures.
+
+-   Use sentence fragments, not complete sentences.
+
+-   Use either title case or sentence case---just be consistent with all your figure titles. If you use title case, capitalize all words except prepositions, articles, and conjunctions. If you use sentence case, capitalize the first word, any proper nouns, and any word after a colon.
+
+-   Do not end a figure title with a period, unless the title is followed by a citation; adding citations to figure titles is covered next in Section b.
+
+Once you have your title typed in, apply **Figure Title** style to the title. Word automatically inserts the word "Figure," a sequential number, and a tab space for you, as shown previously in Figure 2.
+
+#### Figure Citations
+
+A citation is *required* if you did not wholly create the image or information yourself; placement of the citation is shown in Figure 3. A citation is not needed when all elements of the figure are your own creation.
+
+For any figure that is not your original work, you must cite the source as part of the **Figure Title**, using the short-form citation for your chosen citation style.
+
+-   Place a period and space after the figure title but before the citation.
+
+-   If the figure is directly reproduced from a reference, use "Source: \_\_\_."
+
+-   If you changed the original figure, use "Adapted from \_\_\_."
+
+-   When the source is a webpage, the URL alone is not sufficient; follow appropriate citation style.
+
+![](/media/image3.png){width="2.5454549431321083in" height="1.7872364391951006in"}
+
+3.  A Figure with a Citation after the Figure Title. Source: Doe (2017).
+
+![](/media/image3.png){width="2.56917104111986in" height="1.8038867016622921in"}
+
+4.  A Figure Cited Using a Footnote in Chicago Notes and Bibliography Style.[^3]
+
+NOTE: If you need to provide a full citation, or your sources are numerous, place it in a "secondary caption" (covered next in Section c), not with the figure title.
+
+NPS students must comply with U.S. copyright law when using figures, illustrations, and images created by others. Those found in U.S. federal government documents are rarely copyrighted, but this should not be assumed.
+
+You have several options when incorporating another person's copyrighted work into your document: 1) obtain permission from the copyright owner, 2) follow item-specific licensing rights and restrictions, or 3) determine fair use, an exemption provided in U.S. copyright law for education and research. A determination of fair use must be made on an image-by-image basis, using a [four-factor fair use test](https://www.lib.umn.edu/copyright/fairthoughts).  For more fair use guidance, visit the [Dudley Knox Library's Fair Use page](https://libguides.nps.edu/copyright/fairuse). For more information on copyright issues, visit the [Dudley Knox Library's Copyright page](https://libguides.nps.edu/copyright/home).
+
+#### Figure Secondary Caption, Separate from Figure Title (Optional)
+
+Depending upon your discipline's norms, you may need more than a summary figure title, whether to include justification for using the source, explain why certain data were presented and other data omitted, or provide more information about methodology used, for example. This additional information must be placed in a secondary caption. Refer to Figure 5 for an example of the format.
+
+![](/media/image3.png){width="2.6123436132983375in" height="1.8341983814523184in"}
+
+If you would like to provide more information than what is in the figure title, provide it here, in a secondary caption. Apply **Figure Secondary Caption** style to secondary captions.
+
+5.  Placement of Optional Secondary Caption in Figure Title
+
+You may add a secondary caption *between* the figure and the figure title:
+
+-   Write secondary captions in complete sentences, not fragments, unless you are listing legend elements.
+
+-   Use sentence case (capitalize first word and proper nouns only).
+
+-   Apply **Figure Secondary Caption** style to this secondary text by highlighting it and selecting the style from your Styles palette.
+
+    d.  #### Optional Figure Format: Multi-Line Figure Titles / Combining Figure Title and Secondary Caption
+
+Depending upon your discipline's norms, figure titles may be composed of more than one sentence to include justification for using the source, an explanation on why certain data was presented and other data omitted, or more information about methodology used. See Figure 6 for an example of a multi-line figure title.
+
+Create multi-line figure titles as follows:
+
+-   Use a sentence fragment, not a complete sentence, for the first sentence, which summarizes the primary point of the image.
+
+-   If you are adding source information, place a period and space after the first sentence and then type the citation in its own sentence.
+
+-   Write all other (secondary) sentences in complete sentences, not fragments, unless you are listing legend elements.
+
+-   Use sentence case for all other sentences after the first and the citation.
+
+-   Insert a "style separator" before secondary caption text. [Get the instructions here](https://my.nps.edu/documents/105790666/106471207/Multiline_Figure_Title_Instructions.pdf). These secondary captions will remain in your text as a continuation of the figure title but will not appear in your List of Figures.
+
+![](/media/image4.png){width="3.6705872703412075in" height="1.2150918635170604in"}
+
+6.  Variation---Multi-line Figure Title, with First Sentence Only in List of Figures. Adapted from Doe (2017).
+
+> You will need to insert a style separator after the figure title and before secondary text; instructions are provided in Section d. Use sentence case in secondary text.
+
+#### Optional Figure Format: Figure Title [above]{.underline} Figure
+
+You may elect to place [all]{.underline} of your figure titles ***above*** your figures. In this case, place the more detailed secondary caption *below* the figure:
+
+-   Write secondary captions in complete sentences, not fragments, unless you are listing legend elements.
+
+-   Use sentence case.
+
+-   Apply the **Figure Secondary Caption** style to this secondary text by clicking into it and selecting the style from your Styles list.
+
+-   Your thesis processor will adjust your Image, Figure Title, and Figure Secondary Caption styles to accommodate this optional format. Please do not attempt to do this yourself.
+
+-   Refer to Figure 7 for an example of this format.
+
+7.  Variation---Figure Title above Figure
+
+![](/media/image3.png){width="3.2470581802274716in" height="2.2798490813648296in"}
+
+If you placed all of your figure titles above your figures, then place the secondary caption **below** the figure, as shown here. Your thesis processor will adjust your **Image**, **Figure Title**, and **Figure Secondary Caption** styles during your Initial Review to accommodate this format.
+
+### Tables
+
+Follow the NPS thesis style guidelines for figure titles, with these exceptions:
+
+-   Please table titles above the tables themselves, never below.
+
+-   Apply **Table Title** style to each short, descriptive table title. The template will insert "Table" followed by the sequential number, a period, and a tab space before your descriptive title.
+
+-   Place notes or legends underneath the table, aligned with the left side of the table. Apply **Table Notes** style to these additional descriptive details. After applying the **Table Notes** style, in the **View** tab, check the **Ruler** box to see the ruler. Click on the square underneath the triangles to the left and drag the notes in place.
+
+-   Use **Normal** style on the tables themselves, do not use Image style.
+
+-   Place the citation, if any, after the table title, as its own sentence. See\
+    Table 1 for an example of where to place the citation.
+
+-   If the table is directly reproduced from a reference, use "Source: \_\_\_."
+
+-   If you have made changes to the original table, use "Adapted from \_\_\_."
+
+-   If you have numerous citations, place the citation in a table note.
+
+1.  Styles to Use and Element Placement for Figures and Tables. Source: \[5\].
+
++-------------------------+-----------------------------+---------------------------+------------------------+-----------------------------------------+---------------------------------+
+|                         | **Style to Use on Picture** | **Style to Use on Title** | **Placement of Title** | **Style to Use**                        | **Placement**                   |
+|                         |                             |                           |                        |                                         |                                 |
+|                         |                             |                           |                        | **for [Extra]{.underline} Information** | **of Extra Information**        |
++=========================+=============================+===========================+========================+=========================================+=================================+
+| **FIGURE**              | Image                       | Figure Title              | Below figure           | Figure Secondary Caption                | Between figure and figure title |
+|                         |                             |                           |                        |                                         |                                 |
+| **Preferred Format**^a^ |                             |                           |                        |                                         |                                 |
++-------------------------+-----------------------------+---------------------------+------------------------+-----------------------------------------+---------------------------------+
+| **FIGURE**              | Image                       | Figure Title              | Below figure           | None---figure title                     | N/A                             |
+|                         |                             |                           |                        |                                         |                                 |
+| **Optional Format**     |                             |                           |                        | is composed of multiple sentences^b^    |                                 |
++-------------------------+-----------------------------+---------------------------+------------------------+-----------------------------------------+---------------------------------+
+| **FIGURE**              | Image                       | Figure Title              | Above figure           | Figure Secondary Caption                | Below figure                    |
+|                         |                             |                           |                        |                                         |                                 |
+| **Optional Format**     |                             |                           |                        |                                         |                                 |
++-------------------------+-----------------------------+---------------------------+------------------------+-----------------------------------------+---------------------------------+
+| **TABLE**               | Normal                      | Table Title               | Above table            | Table Note                              | Below table                     |
++-------------------------+-----------------------------+---------------------------+------------------------+-----------------------------------------+---------------------------------+
+
+You many include notes or a legend underneath a table. Align them with the left side of the table.
+
+^a^Pick one of the figure formats offered in this table and use it consistently throughout your thesis.
+
+^b^See Section d for instructions on how to do multi-line figure titles.
+
+### Bulleted and Numbered Lists
+
+Guidance for bulleted or numbered lists is as follows:
+
+-   Apply **List Bullet** style to bulleted lists and **List Number** style to numbered lists.
+
+-   Restart a numbered list at "1" by right clicking on the first item and choose "Restart at 1."
+
+-   Avoid using a mixture of bullets icons for different lists in your thesis.
+
+-   Use periods on bulleted and numbered lists only if the text consists of complete sentences.
+
+    4.  ### Block Quotes
+
+Quotations of five or more lines are to be styled as **Block Quote** style, with no quotation marks around the quote. This signals that the material is quoted. For formatting purposes only, the quotation becomes a separate paragraph. Citations go outside the period (block quotes only).
+
+> Quotations are understood to be excerpts; therefore, ellipses are usually not used at the beginning of a quotation. Ellipses *are* used in the middle of a quotation where a portion of the text has been omitted. This is an example ... of the correct use of ellipses. Ellipses may also be used at the end of a quote that is grammatically incomplete. For quoted material within a block quote, use double quotation marks. Citations go outside the period for block quotes only, like this. (Naval Postgraduate School, 2017)
+
+To continue the paragraph visually (if desired), remove the paragraph indent from text following a block quotation, as shown here (in the **View** tab, select "Ruler." Click on top of the triangle ruler guide and slide 0.5 inch to left margin).
+
+### Footnotes
+
+Apply **Footnote Text** style to your footnotes:
+
+1.  Place cursor in footnote text.
+
+<!-- -->
+
+6.  Select all footnotes (Control + A).
+
+7.  In the Styles list, select **Footnote Text**.
+
+    E.  ## Table of contents
+
+*Do not manually type your own Table of Contents.* After styling all headings in your thesis, right-click on the Table of Contents (text field turns gray).
+
+1.  Select Update Field
+
+![](/media/image5.png){width="1.1980489938757655in" height="2.336793525809274in"}
+
+8.  Then select Update entire table
+
+![](/media/image6.png){width="2.428571741032371in" height="1.2271150481189852in"}
+
+9.  Each heading will appear in proper outline form
+
+A glance at the completed Table of Contents should provide an overview of the thesis and act like an outline but not weigh down the reader with detailed information. Word will also update the List of Figures and List of Tables on command, as described for the Table of Contents.
+
+## zotero, refworks and the like
+
+If you use reference-list generating software, such as RefWorks, ensure that you fill in all fields completely and accurately when creating your citation list. *You must edit the reference list for punctuation and formatting* once the footnotes (if you use Chicago footnote style) and List of References are imported. To edit most lists, you must remove the field code. Do this by pressing Shift + Control + F9 (or Control + 6) at the same time. In Word's citation manager, click anywhere on the list and choose "convert to static text." If problems arise, see a thesis processor for help.
+
+**RefWorks/Write-N-Cite users:** Before submitting for Final Review, click option to "Remove Field Codes," after importing the List of References (you will find this option under the "Tools" menu in Write-N-Cite). *Save a copy of the thesis for your records before removing the field codes.* See a thesis processor or the library for help.
+
+Also, RefWorks users must abandon the check-in/check-out feature of SharePoint. Instead, download the thesis from SharePoint, make edits, and then reupload the file to SharePoint (Write-N-Cite cannot access files in password-protected sites such as SharePoint).
+
+The library offers citation management tools [here](https://libguides.nps.edu/citationtools/management).
+
+## blank pages
+
+Place each new chapter on an odd-numbered page (this should be done before submitting for Final Review). You may need to remove or insert intentional blank pages to achieve this. To add a blank page, place the cursor after the last word on the current page, then press Control + Enter to insert a new page into your file. On the style list, click\
+**Blank Page**. Type "THIS PAGE INTENTIONALLY LEFT BLANK."
+
+## Cross referencing
+
+You must mention each figure and table by label and number in your narrative. If you have many figures and tables, you might want Word to keep track of the figure and table numbers for you as you write and revise. Follow these steps to have Word insert cross references for you:
+
+1.  First, remove the period and tab from the Figure Title and Table Title styles (Style Paletteright click on style namemodifyformat\
+    numberingdefine new number format).
+
+<!-- -->
+
+10. To insert a cross reference, in the **References** tab, click **Cross-reference**. Choose *Numbered item* under "reference type" and *Paragraph number* under "insert reference to."
+
+11. To update the cross references as you work, select all text (Control + A) and press F9. Follow prompts to update all linked content.
+
+12. Next, when you are sure all figures and tables are in their permanent positions, highlight all body text starting from page 1 and press Shift + Control + F9 *or* Control + 6. This breaks the field code from the cross references.
+
+13. Finally, reinsert the period and tab in the Figure Title and Table Title styles.
+
+    H.  ## equations
+
+PC Users: To create equations, use MathType, which you can download from the NPS Technology [website](https://www.nps.edu/Technology/Downloads/SoftwareLibrary.html). Word 2016 users might then need to [upgrade to 6.9 version d](http://www.dessci.com/en/dl/). DO NOT use the Insert, Equation option in Microsoft Word because math symbols could disappear when the file is converted to PDF.
+
+Mac Users: MathType might not yet be compatible with Mac Office 2016. Check [this page](http://news.dessci.com/mathtype-now-works-office-2016-windows-mac-office-2016-soon) for updates. In the meantime, please use Word's built-in equation editor and proofread the equations after your thesis is converted to PDF during your Final Review.
+
+Do not clear coding from your thesis in one fell swoop by selecting all text and removing the code. Doing this will end up converting all of your equations to pictures.
+
+The most popular format for equations is to center them and place the equation number on right margin (choose "Right-numbered" equation in MathType to achieve this). Whether you number your equations is at your discretion.
+
+5x=10 (1)
+
+If you created equations outside of MathType, or if you created equations in MathType without first numbering them but now want them numbered, follow these instructions:
+
+1.  Place your cursor in front of the equation, go to your style list, and choose either **Equation** or **MTDisplayEquation**.
+
+<!-- -->
+
+14. Then, press tab. Your equation should jump to center of the page. If it does not, remove extraneous space and tab markings. There should be only one tab space.
+
+15. Place your cursor after the equation and press tab. The cursor will jump to the right margin.
+
+16. Now click *Insert Number* on the MathType menu if you want MathType to number your equations (to format the numbers, click *Insert Number*). Or, you can manually number your equations.
+
+## Supplementals
+
+We allow paper sizes larger than 8 x 11 only in the appendices. Content that cannot be inserted directly into the thesis file should accompany the thesis as a supplemental file. For instructions on adding supplementals, see our [supplementals](https://my.nps.edu/web/thesisprocessing/supplementals) page.
+
+##   {#section .ListParagraph}
+
+this page intentionally left blank
+
+# SAMPLE CHAPTER
+
+**~~X. SAMPLE CHAPTER~~**
+
+This is how a properly formatted chapter would look. Each section of a chapter should be substantial enough to warrant a heading. *There should be at least two sections per subheading level*. *Do not stack headings without text in between*. Heading 5 style may be used under any heading level if short, numbered paragraphs are desired.
+
+## THIS IS A HEADING 2
+
+All paragraph style all paragraph style all paragraph style all paragraph measure paragraph style, which therefore all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style (citation).
+
+All paragraph style all paragraph style all paragraph style all paragraph inventory life cycle style (citation) all paragraph style particularly all paragraph all style all paragraph its paragraph style all paragraph style used all paragraph style in the field. When paragraph style repeated paragraph all style all paragraph style plus all paragraph style; therefore, all paragraph style all paragraph style all those paragraph all style of style of consequence (citation). All DON and U.S. paragraph style (citation) all paragraph style all paragraph style belatedly that paragraph style; however, if enough style all paragraph solids all style paragraph style all continuing all paragraph style all paragraph style all paragraph style all paragraph they paragraph styled (citation).
+
+Citation states all paragraph, style all paragraph style all paragraph style the paragraph style all paragraph style comprehensively all paragraph (citation) style all paragraph style all paragraph the system of systems paragraph all style all paragraph style all DOD the authors relate style but in truth all style all the experiment paragraph style (citation).
+
+### Heading 3
+
+All paragraph style all paragraph style all paragraph style all paragraph determine (citation) paragraph style all paragraph style; however, all paragraph style all and paragraph style all paragraph style all paragraph style all paragraph style (citation). All understand style their paragraph style all paragraph style; indeed, paragraph style paragraph style all paragraph narrative style all paragraph style all paragraph style all repeat paragraph all this thesis style all paragraph style all paragraph style (citation). Then paragraph style for what it is worth, all counterterrorism style all paragraph style all paragraph style (citation); all paragraph security style all paragraph style all paragraph style but all paragraph style all paragraph style all paragraph style (citation). All insert style all paragraph (citation). All paragraph style all paragraph style shown paragraph design paragraph style all paragraph style, again, certainly, all what does the new paragraph style all paragraph style all paragraph style all paragraph style (citation).
+
+All paragraph style all paragraph current research project (citation). All paragraph style all paragraph style all paragraph style (citation), and all paragraph style all paragraph style all paragraph style all paragraph; later, it was found such all (citation) that paragraph style all intelligence that all paragraph style all paragraph style.
+
+#### Heading 4
+
+All paragraph style all government office all paragraph style all paragraph style (citation) all paragraph style all paragraph style. Citation all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style, ultimately. All paragraph beyond paragraph style all yet paragraph style words all paragraph all style all whereas style and paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style (citation).
+
+All paragraph style all paragraph current research project. All paragraph different paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph (citation); later, it was found such style all paragraph style all intelligence that all paragraph style all paragraph style.
+
+All paragraph style all paragraph current research project. All paragraph different paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph (citation); later, it was found such style all paragraph style all intelligence that all paragraph style all paragraph style. All paragraph style all paragraph current research project. All paragraph different paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph (citation); later, it was found such style all paragraph style all intelligence that all paragraph style all paragraph style.
+
+##### Heading 5 Used as Subsection under Heading 4
+
+All paragraph style all paragraph. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style.
+
+All paragraph style all paragraph. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style.
+
+##### Heading 5 used as Subsection under Heading 4
+
+All paragraph style all paragraph. All paragraph style all paragraph style all miles. Paragraph style all---paragraph style all paragraph---style all paragraph all style that paragraph style all paragraph style all paragraph. Style all paragraph style all paragraph style (citation), but then paragraph style all paragraph style all paragraph and all paragraph style all paragraph; however, all paragraph style.
+
+#### Heading 4
+
+All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style.
+
+All paragraph style all paragraph. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style.
+
+All paragraph style all paragraph. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style.
+
+### Heading 3
+
+All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. Citation all paragraph style all paragraph therefore paragraph style all paragraph all style all paragraph style all paragraph all style the paragraph style all paragraph style all paragraph style all paragraph style all paragraph style, ultimately. All paragraph style all beyond paragraph style then (citation) style all yet style yet words all paragraph style all paragraph style.
+
+All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. Citation all paragraph style all paragraph therefore paragraph style all paragraph all style all paragraph style all paragraph all style the paragraph style all paragraph style all paragraph style all paragraph style all paragraph style, ultimately. All paragraph style all beyond paragraph style then (citation) style all yet style yet words all paragraph style all paragraph style.
+
+All paragraph style all paragraph style all. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph usually style.
+
+All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style (citation). All paragraph style all paragraph new style all paragraph style all paragraph style all paragraph when it is done style all paragraph does not all. All paragraph style all MATLAB style all paragraph style all data thereafter style all paragraph style. All paragraph style all paragraph (citation) paragraph style all paragraph style all would not therefore be paragraph all style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. All paragraph style all paragraph could style all paragraph style all paragraph style (citation). Once all paragraph should paragraph (citation). Style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph discovered paragraph style all paragraph style all paragraph before style. All paragraph style all paragraph. All paragraph style all paragraph style states that all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style.
+
+## This is a heading 2
+
+All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style.
+
+##### Heading 5 to Number Paragraphs (Optional Use) 
+
+All paragraphs style all paragraph. Surprisingly, all paragraph style all investigate style all paragraph style paragraph style could not comply all paragraph is all paragraph style. All paragraphs style all paragraph. All paragraph all style the known paratrooper experiment paragraph style all and paragraph style toward paragraph style all potato and therefore style. All paragraph style all decided paragraph style all paragraph published. Paragraph style all. The paragraph style all paragraph style: all paragraph styles all paragraph style all paragraph style all paragraph style all paragraph style.
+
+##### Heading 5 to Number Paragraphs
+
+All paragraph style all paragraph. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. All paragraph style all paragraph style. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. All paragraph style all paragraph. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style.
+
+##### Heading 5 to Number Paragraphs
+
+All paragraph style all paragraph. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. All paragraph style all paragraph. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. All paragraph style all paragraph. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style.
+
+##### Heading 5 to Number Paragraphs
+
+All paragraph style all paragraph. All paragraph style all paragraph style who paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. All should paragraph style all paragraph. All paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style all paragraph style. Afterward, style all paragraph. All paragraph style all paragraph style all paragraph style all government office style all paragraph style all paragraph style all paragraph that the paragraph style.
+
+# appendix. Optional {#appendix.-optional .ListParagraph}
+
+Appendix titles are also styled as **Heading 1**, minus a roman numeral---backspace to remove the roman numeral. Then, type "Appendix," two spaces, a letter, and a title: "APPENDIX A. DATA." *However,* *if you have only one appendix, do not add the letter "A."*
+
+If you apply Heading 2 style in your appendices, and the lettering does not begin with "A," right click on the first Heading 2 of the appendix, and choose "Restart at 1."
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+# List of References {#list-of-references .ListParagraph}
+
+Apply **Reference List** style to your list of references to re-create or retain the formatting of this page. Remove manual line spaces that you have entered between entries, as the style comes with the proper spacing.
+
+A *bibliography* is uncommon in NPS theses; a list of references is the standard. A bibliography differs from a reference list in that it also includes sources you consulted, but did not cite.
+
+All in-text citations must have a matching entry in the List of References, with few exceptions; consult your citation style guide.
+
+Use an established citation style such as Chicago, APA, AMS, etc. Made-up or hybrid styles will not be accepted. You are required to use a [department-required or advisor-approved](https://libguides.nps.edu/citationtools/management) citation style. Guides to the most-common citation styles used at NPS are available here: [Citation guides.](https://my.nps.edu/web/thesisprocessing/citation-guides)
+
+Again, if you use reference-list generating software, such as RefWorks, ensure that you fill in all fields completely and accurately when creating your citation list. **You must edit references for punctuation and formatting** **after importing them**.
+
+To edit most lists, you must remove the field code. Do this by highlighting all entries and pressing **Shift** + **Control** + **F9** *or* **Control** + **6** at the same time. In Word's citation manager, this is achieved by clicking on the list and choosing "convert to static text."
+
+Here are a few example entries:
+
+Hawks, Mathew A. "Graph-Theoretic Statistical Methods for Detecting and Localizing Distributional Change in Multivariate Data," Ph.D. diss., Naval Postgraduate School, Monterey, CA, 2015. (**Chicago N-B style**)
+
+Naval Postgraduate School. (2017). Thesis\_template\_times \[Word template\]. Monterey, CA: Naval Postgraduate School. Retrieved from https://my.nps.edu\
+/documents/105790666/106471216/Thesis\_Template\_Times.docx (**APA style**)
+
+\[1\] B. Orend, *Morality of War*, 2nd ed. Tonawanda, NY: Broadview Press, 2013. (**IEEE style**)
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+# initial distribution list {#initial-distribution-list .ListParagraph}
+
+1\. Defense Technical Information Center
+
+Ft. Belvoir, Virginia
+
+2\. Dudley Knox Library
+
+Naval Postgraduate School
+
+Monterey, California
+
+[^1]: From the top and center of your Python Thesis Dashboard, in the "Thesis Data" section.
+
+[^2]: If thesis is restricted, chapters should only be emailed encrypted or be printed and hand-delivered to advisors.
+
+[^3]: Chicago Notes and Bibliography users must precede footnotes used to cite figures or tables with either "Source:" or "Adapted from," as applicable.
